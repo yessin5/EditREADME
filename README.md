@@ -18,7 +18,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/yessin5/yessin5/blob/output/snake.svg" alt="Snake animation" />
-
-###
